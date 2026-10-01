@@ -5,7 +5,7 @@ import plotly.express as px
 st.set_page_config(page_title="Retail Revenue Dashboard", layout="wide")
 st.title(r"?? Online Retail Revenue Dashboard")
 st.markdown(r"Automated e-commerce insights powered by Python")
-data_path = r"C:\Users\Nepstina\OneDrive\Desktop\Retail_Dashboard_Project\data\cleaned_retail_data.csv"
+data_path = "cleaned_retail_data.csv"
 if os.path.exists(data_path):
     df = pd.read_csv(data_path)
     total_revenue = df['TotalSales'].sum()
