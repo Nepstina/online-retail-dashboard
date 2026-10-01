@@ -1,0 +1,6 @@
+InvoiceNo,StockCode,Description,Quantity,InvoiceDate,UnitPrice,CustomerID,Country,TotalSales
+536365,85123A,White Heart Holder,6,2026-01-01 08:26,2.55,17850.0,United Kingdom,15.299999999999999
+536365,71053,White Lantern,6,2026-01-01 08:26,3.39,17850.0,United Kingdom,20.34
+536366,22752,Nesting Boxes,2,2026-01-01 09:34,8.5,13047.0,France,17.0
+536367,84029G,Hot Water Bottle,12,2026-01-02 11:15,3.75,12346.0,Germany,45.0
+536369,21730,Glass Star Holder,4,2026-01-03 15:20,4.25,Guest,United Kingdom,17.0
